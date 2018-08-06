@@ -1,0 +1,13 @@
+flywayutil:
+    source1:
+        url: jdbc:postgresql://11:5432/db1?characterEncoding=utf8&useSSL=false
+        username: alauda
+        password: 123123
+    source2:
+        url: jdbc:postgresql://localhost:5432/db2?characterEncoding=utf8&useSSL=false
+        username: alauda
+        password: 123123
+    source3:
+        url: jdbc:postgresql://localhost:5432/db3?characterEncoding=utf8&useSSL=false
+        username: alauda
+        password: 123123
